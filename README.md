@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Data Scientist in the Making
+# Hi there! 👋 I'm a Data Scientist
 
 ---
 
