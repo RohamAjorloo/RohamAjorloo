@@ -55,7 +55,7 @@ I’ve worked on numerous exciting projects, and a few highlights include:
 I’m always open to collaborations, discussions, and new opportunities. Let’s connect and create something impactful together!
 
 - **Email**: [rohamajorloo88@gmail.com](mailto:rohamajorloo88@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/roham-ajorloo](https://www.linkedin.com/in/roham-ajorloo)
+- **LinkedIn**: [roham-ajorloo](https://www.linkedin.com/in/roham-ajorloo)
 - **GitHub**: [RohamAjorloo](https://github.com/RohamAjorloo)
 - **Kaggle**: [RohamAjorloo](https://kaggle.com/RohamAjorlo)
 - **Telegram**: [Roham_Ajorloo](https://t.me/Roham_Ajorloo)
