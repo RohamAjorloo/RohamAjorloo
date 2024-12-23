@@ -58,7 +58,7 @@ I’m always open to collaborations, discussions, and new opportunities. Let’s
 - **LinkedIn**: [www.linkedin.com/in/roham-ajorloo](https://www.linkedin.com/in/roham-ajorloo)
 - **GitHub**: [RohamAjorloo](https://github.com/RohamAjorloo)
 - **Kaggle**: [RohamAjorloo](https://kaggle.com/RohamAjorlo)
-
+- **Telegram**: [Roham_Ajorloo](https://t.me/Roham_Ajorloo)
 ---
 
 ### Fun Fact 🎉
