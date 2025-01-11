@@ -12,13 +12,31 @@ I am on an exciting journey to become a **data scientist**, blending technical e
 
 I’ve invested time and effort in honing my skills through recognized certifications:
 
-- **Python Programming (Beginner)** - [Certificate](https://maktabkhooneh.org/certificates/MK-YOZXW4)
-- **Python Programming (Advanced)** - [Certificate](https://maktabkhooneh.org/certificates/MK-OHI6F3)
 - **Machine Learning with Python** - [Certificate](https://maktabkhooneh.org/certificates/MK-19092M)
+- **Natural Language Processing With Deep Learning (NLP)** - [Certificate](https://datascienceschool.net)
+- **Natural Language Processing (NLP)** - [Certificate](https://maktabkhooneh.org)
+- **Python Programming (Advanced)** - [Certificate](https://maktabkhooneh.org/certificates/MK-OHI6F3)
+- **Python Programming (Beginner)** - [Certificate](https://maktabkhooneh.org/certificates/MK-YOZXW4)
+- **Advanced Git Training** - [Certificate](https://faradars.org)
 - **Mastering Git, GitHub, and GitLab** - [Certificate](https://faradars.org/verify/4D43F8B8)
 - **Understanding Programming** - [Certificate](https://maktabkhooneh.org/certificates/MK-O7LJT7)
 
-Each of these courses has played a pivotal role in shaping my expertise and approach to data science.
+## 🔧 Skills
+
+Here are some of the key skills I bring to the table:
+
+- **Data Science**
+- **Machine Learning**
+- **Python (Programming Language)**
+- **Pandas**
+- **Scikit-Learn**
+- **NumPy**
+- **Matplotlib**
+- **Keras**
+- **TensorFlow**
+- **FastText**
+- **Git**
+- **Mathematics**
 
 ---
 
@@ -40,7 +58,7 @@ My primary focus is on:
 
 ---
 
-## 📂 Featured Projects
+## 🗂 Featured Projects
 
 I’ve worked on numerous exciting projects, and a few highlights include:
 
@@ -59,6 +77,7 @@ I’m always open to collaborations, discussions, and new opportunities. Let’s
 - **GitHub**: [RohamAjorloo](https://github.com/RohamAjorloo)
 - **Kaggle**: [RohamAjorloo](https://kaggle.com/RohamAjorlo)
 - **Telegram**: [Roham_Ajorloo](https://t.me/Roham_Ajorloo)
+
 ---
 
 ### Fun Fact 🎉
