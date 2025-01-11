@@ -21,6 +21,8 @@ I’ve invested time and effort in honing my skills through recognized certifica
 - **Mastering Git, GitHub, and GitLab** - [Certificate](https://faradars.org/verify/4D43F8B8)
 - **Understanding Programming** - [Certificate](https://maktabkhooneh.org/certificates/MK-O7LJT7)
 
+---
+
 ## 🔧 Skills
 
 Here are some of the key skills I bring to the table:
